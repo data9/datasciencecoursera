@@ -1,2 +1,2 @@
 # datasciencecoursera
-data science course
+data science course repo
